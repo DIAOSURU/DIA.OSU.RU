@@ -95,7 +95,7 @@ section {
 }
 
 .heading span {
-    color: var(--main-clr);
+    color: #000000;
 }
 
 
@@ -272,7 +272,7 @@ padding: 1rem 0rem;
 }
 
 .about .row .info-box .box span {
-    color: var(--main-clr);
+    color: #000;
     font-size: var(--info-box-fz);
 }
 
